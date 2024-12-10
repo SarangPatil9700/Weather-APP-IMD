@@ -1,4 +1,4 @@
-package com.hrishikesh.omweatherapp;
+package com.sarang.sarangweatherapp;
 
 import retrofit2.Call;
 import retrofit2.http.GET;
