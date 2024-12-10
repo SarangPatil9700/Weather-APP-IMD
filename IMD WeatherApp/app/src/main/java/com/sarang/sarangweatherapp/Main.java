@@ -1,4 +1,4 @@
-package com.hrishikesh.omweatherapp;
+package com.sarang.sarangweatherapp;
 
 public class Main {
 
