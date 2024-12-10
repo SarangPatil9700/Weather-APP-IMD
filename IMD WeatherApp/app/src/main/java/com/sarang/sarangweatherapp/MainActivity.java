@@ -1,4 +1,4 @@
-package com.hrishikesh.omweatherapp;
+package com.sarang.sarangweatherapp;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
